@@ -1,9 +1,7 @@
 # Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
-
 这是Awesome系列Hadoop及其生态资源的一览表。其他系列比如 [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python)
-大数据生态也有一份更完整的列表 [Awesome Bigdata](https://github.com/onurakpolat/awesome-bigdata)，中文翻译参见阿里云栖社区 [史上最全的“大数据”学习资源](https://yq.aliyun.com/articles/37308)
+大数据生态也有一份更完整的列表 [Awesome Bigdata](https://github.com/onurakpolat/awesome-bigdata)，中文翻译参见阿里云栖社区 [《史上最全的“大数据”学习资源》](https://yq.aliyun.com/articles/37308)
 
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
@@ -11,9 +9,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [NoSQL](#nosql)
 	- [类SQL处理框架](#类sql处理框架)
 	- [数据管理](#数据管理)
-	- [工作流/生命周期/治理](#工作流-生命周期-治理)
+	- [工作流、生命周期、治理](#工作流-生命周期-治理)
 	- [数据摄取和集成](#数据摄取和集成)
-	- [领域专用语言DSL](#领域专用语言DSL)
+	- [领域专用语言DSL](#领域专用语言dsl)
 	- [开发库和工具](#开发库和工具)
 	- [实时数据处理](#实时数据处理)
 	- [分布式计算和编程](#分布式计算和编程)
