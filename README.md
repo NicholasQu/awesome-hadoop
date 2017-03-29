@@ -7,9 +7,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
-	- [YARN作业调度](#YARN作业调度)
+	- [YARN作业调度](#yarn作业调度)
 	- [NoSQL](#nosql)
-	- [类SQL处理框架](#类SQL处理框架)
+	- [类SQL处理框架](#类sql处理框架)
 	- [数据管理](#数据管理)
 	- [工作流/生命周期/治理](#工作流-生命周期-治理)
 	- [数据摄取和集成](#数据摄取和集成)
